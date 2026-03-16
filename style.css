@@ -1,0 +1,44 @@
+body {
+    background: linear-gradient(135deg, #f8fafc 0%, #e0e7ef 100%);
+    min-height: 100vh;
+}
+.glass {
+    background: rgba(255,255,255,0.7);
+    backdrop-filter: blur(16px) saturate(180%);
+    -webkit-backdrop-filter: blur(16px) saturate(180%);
+    border-radius: 1.5rem;
+    border: 1px solid rgba(200, 210, 255, 0.18);
+}
+.bento {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 2rem;
+}
+.bento-item {
+    border-radius: 1.5rem;
+    background: rgba(255,255,255,0.85);
+    box-shadow: 0 2px 8px 0 rgba(100, 116, 139, 0.10), 0 8px 32px 0 rgba(100, 116, 139, 0.10);
+    transition: box-shadow 0.3s, transform 0.3s;
+}
+.bento-item:hover {
+    box-shadow: 0 8px 32px 0 rgba(100, 116, 139, 0.18), 0 16px 48px 0 rgba(100, 116, 139, 0.18);
+    transform: scale(1.02);
+}
+.icon-btn {
+    transition: box-shadow 0.3s, transform 0.3s;
+}
+.icon-btn:hover, .icon-btn:focus {
+    box-shadow: 0 4px 16px 0 rgba(100, 116, 139, 0.18);
+    transform: scale(1.05);
+}
+.glass-navbar {
+    background: rgba(255,255,255,0.6);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border-bottom: 1px solid rgba(200, 210, 255, 0.12);
+}
+@media (max-width: 640px) {
+    .bento {
+        gap: 1rem;
+    }
+}

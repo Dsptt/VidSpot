@@ -5,7 +5,8 @@ Bem-vindo ao ClipMaker!
 Este projeto foi desenvolvido para demonstrar habilidades em desenvolvimento web, lógica de programação, organização de código, programação moderna e boas práticas.
 
 ## Objetivo da aplicação
-Meu objetivo foi criar uma ferramenta capaz de identificar o "momento viral" à partir de vídeo. O usuário realiza upload do vídeo em que deseja extrair este momento, juntamente com sua API do Gemini (Inteligência Artificial usada para a identificação). 
+
+Meu objetivo foi criar uma ferramenta capaz de identificar o "momento viral" à partir de um vídeo. O usuário realiza upload do vídeo em que deseja extrair este momento, juntamente com sua API do Gemini (Inteligência Artificial usada para a identificação). 
 
 ## Sobre o Projeto
 
@@ -14,8 +15,7 @@ O ClipMaker foi criado para fins de estudo e portfólio. Este projeto contém:
 - Inteligência Artificial para identificação do "momento viral" de um vídeo (Google Gemini);
 - Funções assíncronas, ideais para comunicação API e HTTPS;
 - Integração com Cloudinary;
-- HTML, CSS e Javascript;
-- 
+- Linguagens: HTML, CSS e Javascript;
 
 ## Como executar
 

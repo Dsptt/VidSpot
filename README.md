@@ -1,8 +1,10 @@
-# ClipMaker
 
-Bem-vindo ao ClipMaker!
+# VidSpot
+
+Bem-vindo ao VidSpot!
 
 Este projeto foi desenvolvido para demonstrar habilidades em desenvolvimento web, lógica de programação, organização de código, programação moderna e boas práticas.
+
 
 ## Objetivo da aplicação
 
@@ -10,7 +12,7 @@ Meu objetivo foi criar uma ferramenta capaz de identificar o "momento viral" à 
 
 ## Sobre o Projeto
 
-O ClipMaker foi criado para fins de estudo e portfólio. Este projeto contém:
+O VidSpot foi criado para fins de estudo e portfólio. Este projeto contém:
 - Lógica e código manual, com auxilio de Inteligência Artificial como copiloto (GitHub Copilot);
 - Inteligência Artificial para identificação do "momento viral" de um vídeo (Google Gemini);
 - Funções assíncronas, ideais para comunicação API e HTTPS;
@@ -21,7 +23,7 @@ O ClipMaker foi criado para fins de estudo e portfólio. Este projeto contém:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/Dsptt/ClipMaker.git
+   git clone https://github.com/Dsptt/VidSpot.git
    ```
 2. Abra o arquivo `index.html` em seu navegador.
 

@@ -14,7 +14,6 @@ window.addEventListener('DOMContentLoaded', () => {
     });
 });
 
-// Functional logic (preservado)
 const el = {
     status: document.getElementById('status'),
     video: document.getElementById('video'),

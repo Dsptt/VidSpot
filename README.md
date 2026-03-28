@@ -5,6 +5,7 @@ Bem-vindo ao VidSpot!
 
 Este projeto foi desenvolvido para demonstrar habilidades em desenvolvimento web, lógica de programação, organização de código, programação moderna e boas práticas.
 
+<img width="960" alt="VidSpot" src="https://github.com/user-attachments/assets/015a2375-6307-45f2-ba13-830013a1fddb" />
 
 ## Objetivo da aplicação
 
